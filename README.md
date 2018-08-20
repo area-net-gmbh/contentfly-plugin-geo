@@ -1,4 +1,4 @@
-# Contentfly Froala Plugin
+# Contentfly Geo Plugin
 - **Lizenz**: AGPL v3
 - **Contentfly CMS Version**: ab 1.5.0
 - **Webseite**: http://www.contentfly-cms.de
